@@ -36,6 +36,18 @@ html{
     margin: auto;
 }
 
+.button {
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
 .header{
     background: radial-gradient(#fff,#ffd6d6);
 }
